@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7EE&center=true&vCenter=true&width=600&lines=AI/ML+Engineer;Deep+Learning+%26+NLP+Enthusiast;Full-Stack+Developer;Research+Intern;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7EE&center=true&vCenter=true&width=600&lines=AI/ML+Engineer;Deep+Learning+%26+NLP+Enthusiast;Full-Stack+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -29,7 +29,7 @@
 > *"The best way to predict the future is to invent it."* — Alan Kay  
 
 🔎 **AI/ML Enthusiast** passionate about Generative AI, NLP, and Computer Vision.  
-🎓 2nd-year **B.Tech CSE (Data Science & Analytics)** student at **IIIT Nagpur** (CGPA: 8.07/10).  
+🎓 3rd-year **B.Tech CSE (Data Science & Analytics)** student at **IIIT Nagpur** (CGPA: 8.07/10).  
 💡 Love working on **research-driven projects** and solving real-world problems.  
 🌱 Currently exploring **Vision-Language Models & Multimodal AI**.  
 
@@ -52,8 +52,6 @@
 |:---|:---:|:---|
 | **2nd Runner-up @ IIT Guwahati ETHOS Hackathon** | 2024 | Built AI chatbot for Trumio |
 | **Finalist @ IIT Delhi TRYST Hackathon** | 2025 | AI-powered Resume Ranking System |
-| **Research Intern @ IJAIKE (California)** | 2025 | Co-authored GenAI paper with Dr. Biren Prasad |
-| **Research Intern @ IIITN** | 2025 | Breast Cancer Detection using Vision Transformers |
 
 </div>
 

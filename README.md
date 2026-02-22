@@ -22,26 +22,27 @@
 </div>
 
 ---
-
 ## 👨‍💻 About Me
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 > *"The best way to predict the future is to invent it."* — Alan Kay  
 
-🔎 **AI/ML Enthusiast** passionate about Generative AI, NLP, and Computer Vision.  
-🎓 3rd-year **B.Tech CSE (Data Science & Analytics)** student at **IIIT Nagpur** (CGPA: 8.07/10).  
-💡 Love working on **research-driven projects** and solving real-world problems.  
-🌱 Currently exploring **Vision-Language Models & Multimodal AI**.  
+🤖 AI/ML Engineer passionate about building intelligent, scalable, and research-backed systems.  
+🎓 B.Tech CSE (Data Science & Analytics) student at IIIT Nagpur with strong foundations in Deep Learning and Multimodal AI.  
+📄 IEEE conference author and Innovation Challenge winner with experience in LLM pipelines, Vision-Language Models, and AI-driven security systems.  
+💡 Thrive at the intersection of research, experimentation, and real-world deployment.  
+🌱 Currently exploring generative architectures, LoRA fine-tuning, and cross-modal reasoning systems.
 
 ---
+## 🚀 Current Focus Areas
 
-## 🚀 Currently Working On
-- 🤖 **Generative AI & LLMs** → Research in breast cancer detection (ViTs)  
-- 📊 **Data Science & Analytics** → Startup funding & insights with Power BI  
-- 🖥 **AI-powered Systems** → Resume ranking & multimodal meme classification  
-- 🌐 **Full-Stack Projects** → Flask, Django & modern web dev  
-- 🏆 **Competitive Coding** → LeetCode, Codeforces, and CodeChef  
+- 🔬 **Computer Vision Research** → Vision Transformers, 3D deep learning, diffusion models, and high-recall medical AI systems  
+- 🤖 **LLMs & Generative AI Systems** → Architecting retrieval-augmented and reasoning-aware LLM pipelines with security-oriented applications  
+- 🛡 **Deep Learning for Security** → Exploring adversarial ML, automated vulnerability modeling, and AI-driven hardware threat frameworks  
+- 🌍 **Multimodal Intelligence** → Training and adapting VLMs for cross-modal generalization and domain-specific deployment  
+- 🏗 **Production-Ready AI Engineering** → Designing scalable ML systems from data engineering to inference optimization and deployment  
+- 🧠 **Algorithmic & Systems Thinking** → Continuous improvement through competitive programming and system design practice
 
 ---
 

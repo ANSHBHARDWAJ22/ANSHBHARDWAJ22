@@ -51,12 +51,27 @@
 
 | 🏅 **Achievement** | 📅 **When** | 🎯 **Impact** |
 |:---|:---:|:---|
+| **Winner – Innovation Challenge & Bootcamp (AI/ML), IIT Kanpur** | 2025 | Led AI/ML solution development in competitive innovation bootcamp |
+| **Research Paper Accepted – IEEE ISCAS 2026 (China)** | 2026 | Proposed *SilentBite*: LLM-based Automated Hardware Trojan Insertion Framework |
 | **2nd Runner-up @ IIT Guwahati ETHOS Hackathon** | 2024 | Built AI chatbot for Trumio |
 | **Finalist @ IIT Delhi TRYST Hackathon** | 2025 | AI-powered Resume Ranking System |
 
 </div>
 
 ---
+
+---
+
+## 📄 Research Publications
+
+### 🧠 SilentBite: A Novel LLM-based Framework for Automated Hardware Trojan Insertion  
+📍 **Accepted at:** IEEE International Symposium on Circuits and Systems (ISCAS) 2026, China  
+📅 February 2026  
+
+🔬 Proposed a novel Generative AI-driven framework leveraging LLMs for automated hardware trojan insertion.  
+⚙️ Combined AI reasoning with hardware security principles to simulate intelligent adversarial hardware manipulation.
+
+🔗 [Read Paper on ResearchGate](https://www.researchgate.net/publication/400587380_SilentBite_A_Novel_LLM-based_framework_for_Automated_Hardware_Trojan_Insertion)
 
 ## 💻 Tech Stack
 

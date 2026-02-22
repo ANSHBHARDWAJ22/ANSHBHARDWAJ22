@@ -45,6 +45,20 @@
 
 ---
 
+
+## 📄 Research Publications
+
+### 🧠 SilentBite: A Novel LLM-based Framework for Automated Hardware Trojan Insertion  
+📍 **Accepted at:** IEEE International Symposium on Circuits and Systems (ISCAS) 2026, China  
+📅 February 2026  
+
+🔬 Proposed a novel Generative AI-driven framework leveraging LLMs for automated hardware trojan insertion.  
+⚙️ Combined AI reasoning with hardware security principles to simulate intelligent adversarial hardware manipulation.
+
+🔗 [Read Paper on ResearchGate](https://www.researchgate.net/publication/400587380_SilentBite_A_Novel_LLM-based_framework_for_Automated_Hardware_Trojan_Insertion)
+
+---
+
 ## 🏆 Achievements
 
 <div align="center">
@@ -60,18 +74,7 @@
 
 ---
 
----
 
-## 📄 Research Publications
-
-### 🧠 SilentBite: A Novel LLM-based Framework for Automated Hardware Trojan Insertion  
-📍 **Accepted at:** IEEE International Symposium on Circuits and Systems (ISCAS) 2026, China  
-📅 February 2026  
-
-🔬 Proposed a novel Generative AI-driven framework leveraging LLMs for automated hardware trojan insertion.  
-⚙️ Combined AI reasoning with hardware security principles to simulate intelligent adversarial hardware manipulation.
-
-🔗 [Read Paper on ResearchGate](https://www.researchgate.net/publication/400587380_SilentBite_A_Novel_LLM-based_framework_for_Automated_Hardware_Trojan_Insertion)
 
 ## 💻 Tech Stack
 

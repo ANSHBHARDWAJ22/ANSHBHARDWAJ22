@@ -110,12 +110,30 @@
 
 ---
 
-## 📊 GitHub Stats
+
+
+## 📬 Let's Connect
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ANSHBHARDWAJ22&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANSHBHARDWAJ22&layout=compact&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=ANSHBHARDWAJ22&theme=radical" />
+
+<a href="mailto:anshofficial1777@gmail.com">
+  <img src="https://img.shields.io/badge/Email-anshofficial1777%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/ANSHBHARDWAJ22">
+  <img src="https://img.shields.io/badge/GitHub-ANSHBHARDWAJ22-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ansh-bhardwaj">
+  <img src="https://img.shields.io/badge/LinkedIn-Ansh%20Bhardwaj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://drive.google.com/file/d/1pAPDzDwfC_zFXC8S19mn9LTEE0wXFZsr/view">
+  <img src="https://img.shields.io/badge/View%20CV-Download%20Resume-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
+
 </div>
 
 ---
